@@ -1,0 +1,11 @@
+p{font-family:Georgia, serif; font-style:oblique; color:#ff00ff; font-size:18pt;}
+
+h2{font-size:40pt; text-align:center; color:#ff00ff; text-decoration:underline;}
+
+i{background-color:#ffb3b2; text-decoration:underline; font-variant:small-caps; text-indent:.5em;}
+
+span{border-style:solid; border-color:#0000ff; border-width:2pt; padding:2%;}
+
+h1{text-transform:UPPERCASE; margin-left:20%; margin-right:35%; font-weight:bold; color:#ff00ff;}
+
+img{float:right;}
